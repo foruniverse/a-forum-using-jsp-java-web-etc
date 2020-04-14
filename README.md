@@ -4,7 +4,7 @@
 
 ## 介绍
 
--  **运行环境 **<br>
+-  **运行环境** <br>
 
   > *Eclipse Java EE IDE for Web Developers.*    <br>
   >
@@ -87,7 +87,7 @@
       root int,					#管理员标识
   	primary key(sid)
   )
-   ~~~
+  ~~~
 
   > *在密码的处理上，直接将用户的密码存储在数据库里是不妥当的*
   >
@@ -125,13 +125,13 @@
 
 ## **截图**
 
-- **登录**     
+- **登录**      
 
-  ![login](https://github.com/foruniverse/a-forum-using-jsp-java-web-etc/blob/master/scr  eensnap/login.png)     <br>
+  ![login](screensnap/login.png)   
 
-  
+- **首页**
 
-  
+  ![signup](screensnap/index.png)
 
   
 
